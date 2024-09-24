@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## About Me:
+I am a Statistics major seeking opportunities in data analysis. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
+
+## Connect with me:
+
+## Tech Stack:
+
+## Github Stats:
+[![Gyanada's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyanshar)](https://github.com/gyanshar/github-readme-stats)
+
 <!--
 **gyanshar/gyanshar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
