@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 ## About Me:
 I am a Statistics major seeking opportunities in data analysis. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
 
 ## 🔗 Connect with me:
-![✉️](mailto:gyanada.sharma.8@gmail.com)
+[✉️](mailto:gyanada.sharma.8@gmail.com)
 
 ## 💻 Tech Stack:
 
