@@ -1,7 +1,9 @@
-# <center> Hi there 👋 </center>
+<h1 align="center"> Hi there! 👋 </h1>
+
 
 ## About Me:
 I am a Statistics major seeking opportunities in data analysis. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
+
 
 ## 🔗 Connect with me:
 
@@ -16,16 +18,10 @@ I am a Statistics major seeking opportunities in data analysis. Passionate about
 
 ## 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)[PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-<p align="left"> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+![Python](	https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy)![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+
 
 ## 📊 Github Stats:
-![Gyanada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanshar&show_icons=true&theme=transparent) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanshar&theme=transparent)
-
+![Gyanada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanshar&show_icons=true&theme=transparent)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanshar&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanshar&layout=compact&theme=transparent)
-
