@@ -4,8 +4,7 @@
 I am a Statistics major seeking opportunities in data analysis. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
 
 ## 🔗 Connect with me:
-![✉️](gyanada.sharma.8@gmail.com)
-![!(https://github.com/user-attachments/assets/c3ed45d6-de6e-4377-8449-ea88fb099bc3)](https://www.linkedin.com/in/gyanada-sharma)
+![✉️](mailto:gyanada.sharma.8@gmail.com)
 
 ## 💻 Tech Stack:
 
