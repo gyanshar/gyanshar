@@ -2,7 +2,7 @@
 
 
 ## About Me:
-I am a Statistics major seeking opportunities in data analysis. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
+I am a Statistics major seeking opportunities in data analytics. Passionate about uncovering insights from data, I aim to leverage my analytical skills and statistical knowledge to drive data-driven decisions.
 
 
 ## 🔗 Connect with me:
@@ -23,5 +23,8 @@ I am a Statistics major seeking opportunities in data analysis. Passionate about
 
 
 ## 📊 Github Stats:
-![Gyanada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanshar&show_icons=true&theme=transparent)![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanshar&theme=transparent)
+![Gyanada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyanshar&show_icons=true&theme=transparent)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gyanshar&theme=transparent)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gyanshar&layout=compact&theme=transparent)
